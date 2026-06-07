@@ -1,0 +1,11 @@
+{
+  "files": [
+    "isolated_settlements.gpkg",
+    "Isolated_Settlement_Connectivity_Index.pdf",
+    "Isolated_Settlement_Connectivity_Index.qgz",
+    "region_connectivity_summary.gpkg",
+    "settlements_road_distance.gpkg",
+    "verify.json"
+  ],
+  "project_saved": true
+}

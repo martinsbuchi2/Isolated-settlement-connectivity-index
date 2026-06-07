@@ -1,0 +1,13 @@
+{
+  "crs": "EPSG:25000",
+  "crs_desc": "Leigon / Ghana Metre Grid",
+  "srd_fc": 25342,
+  "iso_fc": 9738,
+  "reg_fc": 16,
+  "class_dist": {
+    "Isolated": 9738,
+    "Poorly Connected": 6887,
+    "Moderately Connected": 3624,
+    "Well Connected": 5093
+  }
+}
